@@ -10,4 +10,6 @@ return {
   { import = "astrocommunity.workflow.hardtime-nvim"},
   { import = "astrocommunity.bars-and-lines.bufferline-nvim"},
   { import = "astrocommunity.pack.html-css"},
+  { import = "astrocommunity.pack.astro"},
+  { import = "astrocommunity.pack.typescript"}
 }
